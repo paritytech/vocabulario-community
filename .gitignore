@@ -1,0 +1,59 @@
+# Dependencies
+node_modules/
+
+# AI assistant tooling — per-developer session/cache/local state only.
+# NOT .claude/commands, .claude/skills, .claude/agents, or CLAUDE.md — those are
+# intentional shared config and stay tracked.
+.claude/settings.local.json
+.claude/sessions/
+.claude/cache/
+.cursor/
+.aider*
+.codeium/
+.gemini/
+.windsurf/
+.continue/
+.cline/
+.roo/
+.codex/
+.mcp.json
+opencode.json
+*.local
+
+# Production build
+dist/
+*.tsbuildinfo
+
+# Testing
+coverage/
+*.lcov
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env*.local
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Local scratch dictionary backups (see api.js backup/restore)
+data/*.tmp.*
+data/*.bak
+data/*.bak2
+
+# OS
+Thumbs.db

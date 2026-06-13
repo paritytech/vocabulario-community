@@ -1,0 +1,40 @@
+{
+  "name": "vocabulario",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "A per-wallet, on-chain dictionary for learning languages, built to run inside the Polkadot browser host",
+  "license": "GPL-3.0-only",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paritytech/vocabulario-community.git"
+  },
+  "homepage": "https://github.com/paritytech/vocabulario-community#readme",
+  "bugs": {
+    "url": "https://github.com/paritytech/vocabulario-community/issues"
+  },
+  "author": "Parity Technologies <admin@parity.io>",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "deploy": "node scripts/deploy-bootstrap.mjs"
+  },
+  "dependencies": {
+    "@noble/hashes": "^2.2.0",
+    "@novasamatech/host-api": "^0.8.6",
+    "@novasamatech/host-api-wrapper": "^0.8.6",
+    "lucide-react": "^1.17.0",
+    "multiformats": "^14.0.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@polkadot/util-crypto": "^14.0.0",
+    "@vitejs/plugin-react": "^6.0.2",
+    "vite": "^8.0.16"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}

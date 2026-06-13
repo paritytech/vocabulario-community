@@ -1,0 +1,27 @@
+{
+  "name": "Vocabulario",
+  "version": "0.2.0",
+  "description": "On-chain rečnik za učenje jezika — svaki wallet ima svoje rečnike, kviz i generator rečenica.",
+  "author": "Vocabulario",
+  "permissions": {
+    "accounts": {
+      "required": true,
+      "description": "Wallet account used to scope each user's private dictionaries."
+    },
+    "storage": {
+      "required": false,
+      "type": ["bulletin"],
+      "description": "Phase 2 — store dictionary snapshots on the Bulletin chain."
+    }
+  },
+  "entrypoint": "index.html",
+  "display": {
+    "mode": "spa",
+    "theme": "dark",
+    "orientation": "any"
+  },
+  "triangle": {
+    "modes": ["spa"],
+    "defaultMode": "spa"
+  }
+}

@@ -1,0 +1,6837 @@
+{
+  "words": [
+    {
+      "id": "tener",
+      "spanish": "Tener",
+      "serbian": "imati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "haber",
+      "spanish": "Haber",
+      "serbian": "imati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "hay",
+      "spanish": "Hay",
+      "serbian": "imati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "ima / postoji",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "vivir",
+      "spanish": "vivir",
+      "serbian": "živeti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "ir",
+      "spanish": "ir",
+      "serbian": "ići",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "visitar",
+      "spanish": "visitar",
+      "serbian": "posećivati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "trabajar",
+      "spanish": "trabajar",
+      "serbian": "raditi",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "levantar",
+      "spanish": "levantar",
+      "serbian": "buditi se",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "desayunar",
+      "spanish": "desayunar",
+      "serbian": "doručkovati",
+      "type": "Glagol",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "empezar",
+      "spanish": "Empezar",
+      "serbian": "počinjati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "terminar",
+      "spanish": "Terminar",
+      "serbian": "završiti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tomar",
+      "spanish": "Tomar",
+      "serbian": "uzimati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "caminar",
+      "spanish": "Caminar",
+      "serbian": "šetati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cocinar",
+      "spanish": "Cocinar",
+      "serbian": "kuvati",
+      "type": "Glagol",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "hablar",
+      "spanish": "Hablar",
+      "serbian": "pričati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "ver",
+      "spanish": "ver",
+      "serbian": "videti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "leer",
+      "spanish": "leer",
+      "serbian": "čitati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "leyendo",
+      "spanish": "leyendo",
+      "serbian": "čitanje",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "gerund forma",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "dormir",
+      "spanish": "dormir",
+      "serbian": "zaspati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "gustar",
+      "spanish": "gustar",
+      "serbian": "sviđati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "llamar",
+      "spanish": "llamar",
+      "serbian": "pozvati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "disfrutar",
+      "spanish": "disfrutar",
+      "serbian": "uživati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "escuchar",
+      "spanish": "escuchar",
+      "serbian": "slušati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "aprender",
+      "spanish": "aprender",
+      "serbian": "učiti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "usar",
+      "spanish": "usar",
+      "serbian": "koristiti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "descansar",
+      "spanish": "descansar",
+      "serbian": "odmarati se",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "estudiar",
+      "spanish": "estudiar",
+      "serbian": "učiti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "viajar",
+      "spanish": "viajar",
+      "serbian": "putovati",
+      "type": "Glagol",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "comer",
+      "spanish": "comer",
+      "serbian": "jesti",
+      "type": "Glagol",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "querer",
+      "spanish": "querer",
+      "serbian": "želeti, voleti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pensar",
+      "spanish": "pensar",
+      "serbian": "misliti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "entendar",
+      "spanish": "entendar",
+      "serbian": "razumeti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cerrar",
+      "spanish": "cerrar",
+      "serbian": "zatvoriti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "preferir",
+      "spanish": "preferir",
+      "serbian": "voleti više",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "poder",
+      "spanish": "poder",
+      "serbian": "moći",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "volver",
+      "spanish": "volver",
+      "serbian": "vratiti se",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "encontrar",
+      "spanish": "encontrar",
+      "serbian": "pronaći",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "recordar",
+      "spanish": "recordar",
+      "serbian": "sećati se",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "bailar",
+      "spanish": "bailar",
+      "serbian": "plesati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pedir",
+      "spanish": "pedir",
+      "serbian": "tražiti, moliti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "servir",
+      "spanish": "servir",
+      "serbian": "služiti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "repetir",
+      "spanish": "repetir",
+      "serbian": "ponavljati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "seguir",
+      "spanish": "seguir",
+      "serbian": "slediti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "elegir",
+      "spanish": "elegir",
+      "serbian": "birati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "hacer",
+      "spanish": "hacer",
+      "serbian": "raditi",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "poner",
+      "spanish": "poner",
+      "serbian": "staviti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "salir",
+      "spanish": "salir",
+      "serbian": "izlaziti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "traer",
+      "spanish": "traer",
+      "serbian": "doneti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "venir",
+      "spanish": "venir",
+      "serbian": "doći",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "decir",
+      "spanish": "decir",
+      "serbian": "reći",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "oir",
+      "spanish": "oir",
+      "serbian": "čuti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "ejercicio",
+      "spanish": "ejercicio",
+      "serbian": "vežbanje",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "escribir",
+      "spanish": "escribir",
+      "serbian": "pisati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "regresar",
+      "spanish": "regresar",
+      "serbian": "vratiti se",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cenar",
+      "spanish": "cenar",
+      "serbian": "večerati",
+      "type": "Glagol",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "compartir",
+      "spanish": "compartir",
+      "serbian": "deliti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "limpiar",
+      "spanish": "limpiar",
+      "serbian": "čistiti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "corregir",
+      "spanish": "corregir",
+      "serbian": "ispravljati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "llegar",
+      "spanish": "llegar",
+      "serbian": "stići",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pasear",
+      "spanish": "pasear",
+      "serbian": "šetati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "conocer",
+      "spanish": "conocer",
+      "serbian": "upoznavati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "aparecer",
+      "spanish": "aparecer",
+      "serbian": "pojaviti se",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mostrar",
+      "spanish": "mostrar",
+      "serbian": "pokazivati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "encuentrar",
+      "spanish": "encuentrar",
+      "serbian": "naći",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mirar",
+      "spanish": "mirar",
+      "serbian": "gledati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "soplar",
+      "spanish": "soplar",
+      "serbian": "duvati",
+      "type": "Glagol",
+      "topic": "Priroda",
+      "note": "vetar",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "conectar",
+      "spanish": "conectar",
+      "serbian": "povezivati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sintiar",
+      "spanish": "sintiar",
+      "serbian": "osetiti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "parecerse",
+      "spanish": "parecerse",
+      "serbian": "ličiti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sentadar",
+      "spanish": "sentadar",
+      "serbian": "sedeti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mirandar",
+      "spanish": "mirandar",
+      "serbian": "gledati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "dudar",
+      "spanish": "dudar",
+      "serbian": "sumnjati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "explicar",
+      "spanish": "explicar",
+      "serbian": "objasniti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "brillar",
+      "spanish": "brillar",
+      "serbian": "bleštati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pintar",
+      "spanish": "pintar",
+      "serbian": "bojati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "crecer",
+      "spanish": "crecer",
+      "serbian": "odrastati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "planear",
+      "spanish": "planear",
+      "serbian": "planirati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "dar",
+      "spanish": "dar",
+      "serbian": "davati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mover",
+      "spanish": "mover",
+      "serbian": "seliti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mantener",
+      "spanish": "mantener",
+      "serbian": "održavati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "ayudar",
+      "spanish": "ayudar",
+      "serbian": "pomagati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "enviar",
+      "spanish": "enviar",
+      "serbian": "slati, poslati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "invitar",
+      "spanish": "invitar",
+      "serbian": "pozvati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "comprometer",
+      "spanish": "comprometer",
+      "serbian": "veriti",
+      "type": "Glagol",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "divorciado",
+      "spanish": "divorciado",
+      "serbian": "razvesti",
+      "type": "Glagol",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "creer",
+      "spanish": "Creer",
+      "serbian": "verovati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "romper",
+      "spanish": "Romper",
+      "serbian": "slomiti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "paresir",
+      "spanish": "paresir",
+      "serbian": "činiti se",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sonar",
+      "spanish": "sonar",
+      "serbian": "sanjati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "buscansar",
+      "spanish": "buscansar",
+      "serbian": "tražiti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "superar",
+      "spanish": "superar",
+      "serbian": "prevazići",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mudar",
+      "spanish": "mudar",
+      "serbian": "preseliti se",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sentir",
+      "spanish": "sentir",
+      "serbian": "osetiti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "dejar",
+      "spanish": "dejar",
+      "serbian": "ostaviti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "jugar",
+      "spanish": "jugar",
+      "serbian": "igrati se",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "intentar",
+      "spanish": "intentar",
+      "serbian": "pokušati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "vender",
+      "spanish": "vender",
+      "serbian": "prodati",
+      "type": "Glagol",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "responder",
+      "spanish": "responder",
+      "serbian": "odgovoriti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "olvidar",
+      "spanish": "olvidar",
+      "serbian": "zaboraviti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "esperar",
+      "spanish": "esperar",
+      "serbian": "čekati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "abrir",
+      "spanish": "abrir",
+      "serbian": "otvoriti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "quedar",
+      "spanish": "quedar",
+      "serbian": "ostati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "caer",
+      "spanish": "caer",
+      "serbian": "padati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "amar",
+      "spanish": "amar",
+      "serbian": "voleti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "odijar",
+      "spanish": "odijar",
+      "serbian": "mrzeti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "manejar",
+      "spanish": "manejar",
+      "serbian": "voziti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "participar",
+      "spanish": "participar",
+      "serbian": "učestvovati",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "construir",
+      "spanish": "construir",
+      "serbian": "graditi",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "llueve",
+      "spanish": "llueve",
+      "serbian": "pada kiša",
+      "type": "Glagol",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "dijo",
+      "spanish": "dijo",
+      "serbian": "rekao je",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "hoy",
+      "spanish": "Hoy",
+      "serbian": "danas",
+      "type": "Prilog",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "dia",
+      "spanish": "dia",
+      "serbian": "dan",
+      "type": "Imenica",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mañana",
+      "spanish": "Mañana",
+      "serbian": "sutra, jutro",
+      "type": "Imenica",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "años",
+      "spanish": "Años",
+      "serbian": "godina",
+      "type": "Imenica",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "semana",
+      "spanish": "Semana",
+      "serbian": "nedelja",
+      "type": "Imenica",
+      "topic": "Vreme",
+      "note": "sedmica, cela nedelja",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "media",
+      "spanish": "media",
+      "serbian": "pola",
+      "type": "Pridev",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "después",
+      "spanish": "después",
+      "serbian": "posle",
+      "type": "Prilog",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "por_la_tarde",
+      "spanish": "Por la tarde",
+      "serbian": "posle podne",
+      "type": "Fraza",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "antes_de",
+      "spanish": "Antes de",
+      "serbian": "pre nego što",
+      "type": "Veznik",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_fines_de_semana",
+      "spanish": "Los fines de semana",
+      "serbian": "vikendom",
+      "type": "Fraza",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "siempre",
+      "spanish": "siempre",
+      "serbian": "uvek",
+      "type": "Prilog",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "hora",
+      "spanish": "hora",
+      "serbian": "sati",
+      "type": "Imenica",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "ahora",
+      "spanish": "ahora",
+      "serbian": "sada",
+      "type": "Prilog",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tarde",
+      "spanish": "tarde",
+      "serbian": "kasnije",
+      "type": "Prilog",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "todo_el_tiempo",
+      "spanish": "todo el tiempo",
+      "serbian": "svo vreme",
+      "type": "Fraza",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "durante",
+      "spanish": "durante",
+      "serbian": "tokom",
+      "type": "Predlog",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "temprano",
+      "spanish": "temprano",
+      "serbian": "rano",
+      "type": "Prilog",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "luego",
+      "spanish": "luego",
+      "serbian": "zatim",
+      "type": "Prilog",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mediodia",
+      "spanish": "mediodia",
+      "serbian": "podne",
+      "type": "Imenica",
+      "topic": "Vreme",
+      "note": "12h",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "finalmente",
+      "spanish": "finalmente",
+      "serbian": "na kraju",
+      "type": "Prilog",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mes",
+      "spanish": "mes",
+      "serbian": "mesec",
+      "type": "Imenica",
+      "topic": "Vreme",
+      "note": "u godini",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mientras",
+      "spanish": "mientras",
+      "serbian": "dok",
+      "type": "Veznik",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "nunca",
+      "spanish": "nunca",
+      "serbian": "nikad",
+      "type": "Prilog",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "casi",
+      "spanish": "casi",
+      "serbian": "skoro",
+      "type": "Prilog",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cierto_tiempo",
+      "spanish": "cierto tiempo",
+      "serbian": "malo vremena",
+      "type": "Fraza",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "todavia",
+      "spanish": "todavia",
+      "serbian": "još uvek",
+      "type": "Prilog",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "alguna_vez",
+      "spanish": "alguna vez",
+      "serbian": "ponekad",
+      "type": "Fraza",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "postventa",
+      "spanish": "postventa",
+      "serbian": "nakon plaćanja",
+      "type": "Prilog",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "generar",
+      "spanish": "generar",
+      "serbian": "uobičajeno",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "actualmente",
+      "spanish": "actualmente",
+      "serbian": "trenutno",
+      "type": "Prilog",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "lindo",
+      "spanish": "Lindo",
+      "serbian": "lep",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "alto_a",
+      "spanish": "alto/a",
+      "serbian": "visok/a",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "simpatico_a",
+      "spanish": "simpatico/a",
+      "serbian": "simpatičan/na",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cansado_a",
+      "spanish": "cansado/a",
+      "serbian": "umoran/na",
+      "type": "Pridev",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "feliz",
+      "spanish": "feliz",
+      "serbian": "srećan",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "enfermo",
+      "spanish": "enfermo",
+      "serbian": "bolestan",
+      "type": "Pridev",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "frio",
+      "spanish": "frio",
+      "serbian": "hladan",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mejor",
+      "spanish": "mejor",
+      "serbian": "najbolji",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "nuevo",
+      "spanish": "nuevo",
+      "serbian": "nov, novo",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "guapo_a",
+      "spanish": "guapo/a",
+      "serbian": "zgodan/na",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "alegre",
+      "spanish": "alegre",
+      "serbian": "veseo/la",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "calidad",
+      "spanish": "calidad",
+      "serbian": "kvalitet",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "contento",
+      "spanish": "contento",
+      "serbian": "zadovoljan",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "caliente",
+      "spanish": "Caliente",
+      "serbian": "vruće, toplo",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "triste",
+      "spanish": "triste",
+      "serbian": "tužan",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "nervioso_a",
+      "spanish": "nervioso/a",
+      "serbian": "nervozan/na",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "exito",
+      "spanish": "exito",
+      "serbian": "uspeh",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "util",
+      "spanish": "util",
+      "serbian": "korisno",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pequeña",
+      "spanish": "pequeña",
+      "serbian": "malo",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tranquila",
+      "spanish": "tranquila",
+      "serbian": "miran",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "algo_ligero",
+      "spanish": "algo ligero",
+      "serbian": "nešto lagano",
+      "type": "Fraza",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "sencilla",
+      "spanish": "sencilla",
+      "serbian": "jednostavan",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "poco",
+      "spanish": "poco",
+      "serbian": "malo",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "electronicos",
+      "spanish": "electronicos",
+      "serbian": "električna",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "antiguo",
+      "spanish": "antiguo",
+      "serbian": "stari",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "especial",
+      "spanish": "especial",
+      "serbian": "specijalna",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "mas",
+      "spanish": "mas",
+      "serbian": "najviše",
+      "type": "Prilog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "amable",
+      "spanish": "amable",
+      "serbian": "ljubazan",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "juntos",
+      "spanish": "juntos",
+      "serbian": "zajedno",
+      "type": "Prilog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "estrechas",
+      "spanish": "estrechas",
+      "serbian": "uske",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "habitantes",
+      "spanish": "habitantes",
+      "serbian": "stanovnici",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "fuerte",
+      "spanish": "fuerte",
+      "serbian": "jako",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "llenaba",
+      "spanish": "llenaba",
+      "serbian": "ispunjeno",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "todo",
+      "spanish": "todo",
+      "serbian": "sve",
+      "type": "Zamenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "profundo",
+      "spanish": "profundo",
+      "serbian": "dubok",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "vacio",
+      "spanish": "vacio",
+      "serbian": "prazno",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "solo",
+      "spanish": "solo",
+      "serbian": "samo",
+      "type": "Prilog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mayor",
+      "spanish": "mayor",
+      "serbian": "stariji",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "menor",
+      "spanish": "menor",
+      "serbian": "mlađi",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "extrana",
+      "spanish": "extrana",
+      "serbian": "čudna",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "nadie",
+      "spanish": "nadie",
+      "serbian": "niko",
+      "type": "Zamenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tambien",
+      "spanish": "tambien",
+      "serbian": "takođe",
+      "type": "Prilog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pronto",
+      "spanish": "pronto",
+      "serbian": "ubrzo",
+      "type": "Prilog",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "hondo",
+      "spanish": "hondo",
+      "serbian": "duboko",
+      "type": "Prilog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "menudo",
+      "spanish": "menudo",
+      "serbian": "često",
+      "type": "Prilog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "esperago",
+      "spanish": "esperago",
+      "serbian": "neočekivano",
+      "type": "Prilog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sorprendente",
+      "spanish": "sorprendente",
+      "serbian": "iznenađujuće",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "lejos",
+      "spanish": "Lejos",
+      "serbian": "daleko",
+      "type": "Prilog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "rara_vez",
+      "spanish": "Rara vez",
+      "serbian": "retko",
+      "type": "Fraza",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "seguro",
+      "spanish": "seguro",
+      "serbian": "samouveren",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "anterior",
+      "spanish": "anterior",
+      "serbian": "prethodni",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "bajo",
+      "spanish": "bajo",
+      "serbian": "nizak",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "clara",
+      "spanish": "clara",
+      "serbian": "jasna",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "debil",
+      "spanish": "debil",
+      "serbian": "slab",
+      "type": "Pridev",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "otra",
+      "spanish": "otra",
+      "serbian": "drugi",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "por_fin",
+      "spanish": "por fin",
+      "serbian": "konačno",
+      "type": "Fraza",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mismo",
+      "spanish": "mismo",
+      "serbian": "isto",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "nombre",
+      "spanish": "Nombre",
+      "serbian": "ime",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "apellido",
+      "spanish": "Apellido",
+      "serbian": "prezime",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "niño",
+      "spanish": "niño",
+      "serbian": "dečak",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "niña",
+      "spanish": "niña",
+      "serbian": "devojčica",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "chica",
+      "spanish": "chica",
+      "serbian": "devojka",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "chico",
+      "spanish": "chico",
+      "serbian": "dečak",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "hijo_a",
+      "spanish": "hijo/a",
+      "serbian": "sin, ćerka",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "hermano_a",
+      "spanish": "hermano/a",
+      "serbian": "brat, sestra",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "amigo_a",
+      "spanish": "Amigo/a",
+      "serbian": "prijatelj/ica",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "perro",
+      "spanish": "perro",
+      "serbian": "pas",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "gato",
+      "spanish": "gato",
+      "serbian": "mačka",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "hombre",
+      "spanish": "hombre",
+      "serbian": "čovek",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mujer",
+      "spanish": "Mujer",
+      "serbian": "žena",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "abuelo_a",
+      "spanish": "abuelo/a",
+      "serbian": "deda, baba",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "estudiente",
+      "spanish": "estudiente",
+      "serbian": "student",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "medico",
+      "spanish": "medico",
+      "serbian": "doktor",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "vecinos",
+      "spanish": "vecinos",
+      "serbian": "komšije",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "alumnos",
+      "spanish": "alumnos",
+      "serbian": "učenici",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "gente",
+      "spanish": "gente",
+      "serbian": "ljudi",
+      "type": "Imenica",
+      "topic": "Ljudi i životinje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "paterno",
+      "spanish": "paterno",
+      "serbian": "po ocu",
+      "type": "Pridev",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "por_parte_de_mi_madre",
+      "spanish": "por parte de mi madre",
+      "serbian": "sa mamine strane",
+      "type": "Fraza",
+      "topic": "Porodica",
+      "note": "materna",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "brevemente",
+      "spanish": "brevemente",
+      "serbian": "ukratko",
+      "type": "Prilog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pero",
+      "spanish": "pero",
+      "serbian": "ali",
+      "type": "Veznik",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "con",
+      "spanish": "con",
+      "serbian": "sa",
+      "type": "Predlog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sin",
+      "spanish": "sin",
+      "serbian": "bez",
+      "type": "Predlog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "para",
+      "spanish": "para",
+      "serbian": "za",
+      "type": "Predlog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "porque",
+      "spanish": "porque",
+      "serbian": "zato",
+      "type": "Veznik",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "por",
+      "spanish": "por",
+      "serbian": "od, kroz",
+      "type": "Predlog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sobre",
+      "spanish": "sobre",
+      "serbian": "o nečemu, iznad",
+      "type": "Predlog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "ya",
+      "spanish": "ya",
+      "serbian": "već, više, dosta",
+      "type": "Prilog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "asi",
+      "spanish": "asi",
+      "serbian": "pa, tako",
+      "type": "Prilog",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "delo_que",
+      "spanish": "delo que",
+      "serbian": "nego",
+      "type": "Fraza",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sino",
+      "spanish": "sino",
+      "serbian": "već, nego",
+      "type": "Veznik",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "revista",
+      "spanish": "revista",
+      "serbian": "časopis",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "libro",
+      "spanish": "Libro",
+      "serbian": "knjiga",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mesa",
+      "spanish": "Mesa",
+      "serbian": "sto",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "edificio",
+      "spanish": "Edificio",
+      "serbian": "zgrada",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "escuela",
+      "spanish": "Escuela",
+      "serbian": "škola",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "colegio",
+      "spanish": "Colegio",
+      "serbian": "škola",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mochila",
+      "spanish": "Mochila",
+      "serbian": "ranac",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "papel",
+      "spanish": "Papel",
+      "serbian": "papir",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pelicula",
+      "spanish": "Pelicula",
+      "serbian": "film",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "flor",
+      "spanish": "Flor",
+      "serbian": "cvet",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "manzana",
+      "spanish": "Manzana",
+      "serbian": "jabuka",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "silla",
+      "spanish": "Silla",
+      "serbian": "stolica",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "jardin",
+      "spanish": "jardin",
+      "serbian": "bašta",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "zapato",
+      "spanish": "zapato",
+      "serbian": "patika",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "trato",
+      "spanish": "trato",
+      "serbian": "dogovor",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "ventana",
+      "spanish": "ventana",
+      "serbian": "prozori",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pan",
+      "spanish": "pan",
+      "serbian": "hleb",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "coche",
+      "spanish": "coche",
+      "serbian": "auto",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "madera",
+      "spanish": "madera",
+      "serbian": "drvo",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "materijal",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "arbol",
+      "spanish": "arbol",
+      "serbian": "drvo",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "biljka",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "oficina",
+      "spanish": "Oficina",
+      "serbian": "kancelarija",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "parque",
+      "spanish": "parque",
+      "serbian": "park",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "confianza",
+      "spanish": "confianza",
+      "serbian": "poverenje",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sopa",
+      "spanish": "sopa",
+      "serbian": "supa",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cielo",
+      "spanish": "cielo",
+      "serbian": "nebo",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "piedra",
+      "spanish": "piedra",
+      "serbian": "kamen",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sol",
+      "spanish": "sol",
+      "serbian": "sunce",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "habitaciones",
+      "spanish": "habitaciones",
+      "serbian": "sobe",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "ciudad",
+      "spanish": "ciudad",
+      "serbian": "grad",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "luna",
+      "spanish": "luna",
+      "serbian": "mesec",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "nebesko telo",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cocina",
+      "spanish": "Cocina",
+      "serbian": "kuhinja",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "salon",
+      "spanish": "Salon",
+      "serbian": "dnevni boravak",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "gimnasio",
+      "spanish": "Gimnasio",
+      "serbian": "teretana",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cine",
+      "spanish": "Cine",
+      "serbian": "bioskop",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cuaderno",
+      "spanish": "cuaderno",
+      "serbian": "sveska",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "paginas",
+      "spanish": "paginas",
+      "serbian": "strana",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "este",
+      "spanish": "este",
+      "serbian": "istok",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "examen",
+      "spanish": "examen",
+      "serbian": "ispit",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "correos",
+      "spanish": "correos",
+      "serbian": "pošta",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "deporte",
+      "spanish": "deporte",
+      "serbian": "sport",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "clase",
+      "spanish": "clase",
+      "serbian": "čas",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tarea",
+      "spanish": "tarea",
+      "serbian": "domaći",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cena",
+      "spanish": "cena",
+      "serbian": "večera",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "piso",
+      "spanish": "piso",
+      "serbian": "stan",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "barrio",
+      "spanish": "barrio",
+      "serbian": "kraj, kvart",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "panadería",
+      "spanish": "panadería",
+      "serbian": "pekara",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "reunion",
+      "spanish": "reunion",
+      "serbian": "sastanak",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "negocio",
+      "spanish": "negocio",
+      "serbian": "posao, biznis",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "calles",
+      "spanish": "calles",
+      "serbian": "ulica",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "recuerdos",
+      "spanish": "recuerdos",
+      "serbian": "uspomene, suveniri",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "comida",
+      "spanish": "comida",
+      "serbian": "hrana",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "castillo",
+      "spanish": "castillo",
+      "serbian": "zamak",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "lugares",
+      "spanish": "lugares",
+      "serbian": "mesta",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "lokacije",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "centro_comercial",
+      "spanish": "centro comercial",
+      "serbian": "tržni centar",
+      "type": "Fraza",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "oferta",
+      "spanish": "oferta",
+      "serbian": "ponuda",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "taller",
+      "spanish": "taller",
+      "serbian": "radionica",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "concurrido",
+      "spanish": "concurrido",
+      "serbian": "prometno",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mar",
+      "spanish": "mar",
+      "serbian": "more",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "vista",
+      "spanish": "vista",
+      "serbian": "pogled",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "puerto",
+      "spanish": "puerto",
+      "serbian": "luka",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "za brodove",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "palabras",
+      "spanish": "palabras",
+      "serbian": "reči",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "u rečenici",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "queso",
+      "spanish": "queso",
+      "serbian": "sir",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "platanos",
+      "spanish": "platanos",
+      "serbian": "banane",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "manje, slatke",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "carniceria",
+      "spanish": "carniceria",
+      "serbian": "mesara",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "carne",
+      "spanish": "carne",
+      "serbian": "meso",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cortes",
+      "spanish": "cortes",
+      "serbian": "delovi",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "galletas",
+      "spanish": "galletas",
+      "serbian": "kolačići",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "periodico",
+      "spanish": "periodico",
+      "serbian": "novine",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "receptas",
+      "spanish": "receptas",
+      "serbian": "recepti",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "piel",
+      "spanish": "piel",
+      "serbian": "koža",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pelota",
+      "spanish": "pelota",
+      "serbian": "lopta",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "recreo",
+      "spanish": "recreo",
+      "serbian": "odmor",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "u školi",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "colores",
+      "spanish": "colores",
+      "serbian": "boje",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "desayuno",
+      "spanish": "desayuno",
+      "serbian": "doručak",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "almuerza",
+      "spanish": "almuerza",
+      "serbian": "ručak",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sur",
+      "spanish": "sur",
+      "serbian": "jug",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "algo",
+      "spanish": "algo",
+      "serbian": "nešto",
+      "type": "Zamenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "faro",
+      "spanish": "faro",
+      "serbian": "svetionik",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "viento",
+      "spanish": "viento",
+      "serbian": "vetar",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "olor",
+      "spanish": "olor",
+      "serbian": "miris",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "puente",
+      "spanish": "puente",
+      "serbian": "most",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "marea",
+      "spanish": "marea",
+      "serbian": "plima",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "talas/plima",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "rocas",
+      "spanish": "rocas",
+      "serbian": "stene",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sonido",
+      "spanish": "sonido",
+      "serbian": "zvuk",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "respiracion",
+      "spanish": "respiracion",
+      "serbian": "disanje",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sonrisa",
+      "spanish": "sonrisa",
+      "serbian": "osmeh",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "luz",
+      "spanish": "luz",
+      "serbian": "svetlost",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "remos",
+      "spanish": "remos",
+      "serbian": "vesla",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "fuego",
+      "spanish": "fuego",
+      "serbian": "vatra",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tormenta",
+      "spanish": "tormenta",
+      "serbian": "oluja",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "escalofríos",
+      "spanish": "escalofríos",
+      "serbian": "jeza",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "neblina",
+      "spanish": "neblina",
+      "serbian": "magla",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "olas",
+      "spanish": "olas",
+      "serbian": "talasi",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "corazon",
+      "spanish": "Corazon",
+      "serbian": "srce",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "montana",
+      "spanish": "montana",
+      "serbian": "planina",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "extranjero",
+      "spanish": "extranjero",
+      "serbian": "inostranstvo",
+      "type": "Imenica",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "informe",
+      "spanish": "informe",
+      "serbian": "izveštaj",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "consejo",
+      "spanish": "consejo",
+      "serbian": "savet",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "idioma",
+      "spanish": "idioma",
+      "serbian": "jezik",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "govorni",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "aire",
+      "spanish": "aire",
+      "serbian": "vazduh",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "veces",
+      "spanish": "Veces",
+      "serbian": "puta",
+      "type": "Imenica",
+      "topic": "Vreme",
+      "note": "nekoliko puta",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cada",
+      "spanish": "cada",
+      "serbian": "svako, svake",
+      "type": "Pridev",
+      "topic": "Vreme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "esta",
+      "spanish": "esta",
+      "serbian": "ove",
+      "type": "Zamenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "me_acuesto",
+      "spanish": "me acuesto",
+      "serbian": "idem u krevet",
+      "type": "Fraza",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "vida",
+      "spanish": "vida",
+      "serbian": "život",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cosas",
+      "spanish": "cosas",
+      "serbian": "stvari",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "habituales",
+      "spanish": "habituales",
+      "serbian": "navike",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sale_por",
+      "spanish": "sale por",
+      "serbian": "izlazi",
+      "type": "Fraza",
+      "topic": "Priroda",
+      "note": "sunce izlazi",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "verdadero",
+      "spanish": "Verdadero",
+      "serbian": "istina",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "falso",
+      "spanish": "Falso",
+      "serbian": "laž",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "razon",
+      "spanish": "razon",
+      "serbian": "razlog",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "derecho",
+      "spanish": "derecho",
+      "serbian": "desno",
+      "type": "Prilog",
+      "topic": "Bez teme",
+      "note": "smer",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "igual",
+      "spanish": "igual",
+      "serbian": "isto",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "miro_la_fuenta",
+      "spanish": "miro la fuenta",
+      "serbian": "gledam okolo",
+      "type": "Fraza",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "alguien",
+      "spanish": "alguien",
+      "serbian": "nekoga",
+      "type": "Zamenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "poro_otro_lado",
+      "spanish": "poro otro lado",
+      "serbian": "sa druge strane",
+      "type": "Fraza",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "devoluciones",
+      "spanish": "devoluciones",
+      "serbian": "prava kupaca",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cual",
+      "spanish": "Cual",
+      "serbian": "koji?",
+      "type": "Pitanje",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cuanto",
+      "spanish": "Cuanto",
+      "serbian": "koliko?",
+      "type": "Pitanje",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "que",
+      "spanish": "Que",
+      "serbian": "kako, šta?",
+      "type": "Pitanje",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pregunta",
+      "spanish": "Pregunta",
+      "serbian": "pitanje",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "verdad",
+      "spanish": "Verdad?",
+      "serbian": "jel tako?",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "hola",
+      "spanish": "Hola",
+      "serbian": "zdravo",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "buenos_dias",
+      "spanish": "Buenos dias",
+      "serbian": "dobro jutro",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "buenas_tardes",
+      "spanish": "Buenas tardes",
+      "serbian": "dobar dan",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "buenas_noches",
+      "spanish": "Buenas noches",
+      "serbian": "dobro veče, laku noć",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "adios",
+      "spanish": "Adios",
+      "serbian": "doviđenja",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "bien_gracias",
+      "spanish": "Bien gracias",
+      "serbian": "dobro hvala",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "muy_bien",
+      "spanish": "Muy bien",
+      "serbian": "vrlo dobro",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "asiasi",
+      "spanish": "Asi,asi",
+      "serbian": "tako-tako",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mal",
+      "spanish": "Mal",
+      "serbian": "loše",
+      "type": "Prilog",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "me_llamo",
+      "spanish": "Me llamo",
+      "serbian": "zovem se",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "y_tu",
+      "spanish": "Y tu?",
+      "serbian": "a ti?",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "encantado_a",
+      "spanish": "Encantado/a",
+      "serbian": "drago mi je",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mucho_gusto",
+      "spanish": "Mucho gusto",
+      "serbian": "drago mi je",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "por_favor",
+      "spanish": "Por favor",
+      "serbian": "molim te",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "gracias",
+      "spanish": "Gracias",
+      "serbian": "hvala",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "de_nada",
+      "spanish": "De nada",
+      "serbian": "nema na čemu",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "perdon",
+      "spanish": "Perdon",
+      "serbian": "izvini",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "lo_siento",
+      "spanish": "Lo siento",
+      "serbian": "žao mi je",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "saludalos",
+      "spanish": "Saludalos",
+      "serbian": "pozdravi ih",
+      "type": "Glagol",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_cabeza",
+      "spanish": "La cabeza",
+      "serbian": "glava",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_pelo",
+      "spanish": "El pelo",
+      "serbian": "kosa",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_cabello",
+      "spanish": "El cabello",
+      "serbian": "kosa",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_frente",
+      "spanish": "La frente",
+      "serbian": "čelo",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_ceja",
+      "spanish": "La ceja",
+      "serbian": "obrva",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "el_ojo",
+      "spanish": "El ojo",
+      "serbian": "oko",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "la_pestaña",
+      "spanish": "La pestaña",
+      "serbian": "trepavica",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_oreja",
+      "spanish": "La oreja",
+      "serbian": "uvo",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 2
+    },
+    {
+      "id": "el_oido",
+      "spanish": "El oido",
+      "serbian": "unutrašnje uvo",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_nariz",
+      "spanish": "La nariz",
+      "serbian": "nos",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_boca",
+      "spanish": "La boca",
+      "serbian": "usta",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_diente",
+      "spanish": "El diente",
+      "serbian": "zub",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_lengua",
+      "spanish": "La lengua",
+      "serbian": "jezik",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_mejilla",
+      "spanish": "La mejilla",
+      "serbian": "obraz",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_barbilla",
+      "spanish": "La barbilla",
+      "serbian": "brada",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_cuello",
+      "spanish": "El cuello",
+      "serbian": "vrat",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_hombro",
+      "spanish": "El hombro",
+      "serbian": "rame",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_brazo",
+      "spanish": "El brazo",
+      "serbian": "ruka",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_codo",
+      "spanish": "El codo",
+      "serbian": "lakat",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_mano",
+      "spanish": "La mano",
+      "serbian": "šaka",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_dedo",
+      "spanish": "El dedo",
+      "serbian": "prst",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_uña",
+      "spanish": "La uña",
+      "serbian": "nokat",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_pecho",
+      "spanish": "El pecho",
+      "serbian": "grudi",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_espalda",
+      "spanish": "La espalda",
+      "serbian": "leđa",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_muñeca",
+      "spanish": "La muñeca",
+      "serbian": "ručni zglob",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_cadera",
+      "spanish": "La cadera",
+      "serbian": "kuk",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_pierna",
+      "spanish": "La pierna",
+      "serbian": "noga",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_rodilla",
+      "spanish": "La rodilla",
+      "serbian": "koleno",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_tobillo",
+      "spanish": "El tobillo",
+      "serbian": "zglob",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "oko članka",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_pie",
+      "spanish": "El pie",
+      "serbian": "stopalo",
+      "type": "Imenica",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_dedo_del_pie",
+      "spanish": "El dedo del pie",
+      "serbian": "prst na nozi",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "me_duele",
+      "spanish": "Me duele",
+      "serbian": "boli me",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "me_duelen",
+      "spanish": "Me duelen",
+      "serbian": "bole me",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "plural",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tengo_dolor_de",
+      "spanish": "Tengo dolor de",
+      "serbian": "imam bol u",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "me_arde",
+      "spanish": "Me arde",
+      "serbian": "peče me",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tengo_fiebre",
+      "spanish": "Tengo fiebre",
+      "serbian": "imam temperaturu",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tengo_tos",
+      "spanish": "Tengo tos",
+      "serbian": "imam kašalj",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "estoy_enfermo_a",
+      "spanish": "Estoy enfermo/a",
+      "serbian": "bolestan sam",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "estoy_mareado_a",
+      "spanish": "Estoy mareado/a",
+      "serbian": "vrtoglavica mi je",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tengo_escalofrios",
+      "spanish": "Tengo escalofrios",
+      "serbian": "drma me, imam groznicu",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tengo_nauseas",
+      "spanish": "Tengo nauseas",
+      "serbian": "mučnina mi je",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tengo_hambre",
+      "spanish": "Tengo hambre",
+      "serbian": "gladan sam",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "tengo_mucha_hambre",
+      "spanish": "Tengo mucha hambre",
+      "serbian": "jako sam gladan",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tengo_sed",
+      "spanish": "Tengo sed",
+      "serbian": "žedan sam",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tengo_mucha_sed",
+      "spanish": "Tengo mucha sed",
+      "serbian": "jako sam žedan",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "estoy_cansado_a",
+      "spanish": "Estoy cansado/a",
+      "serbian": "umoran/na sam",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "estoy_debil",
+      "spanish": "Estoy debil",
+      "serbian": "slab/a sam",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "estoy_nervioso_a",
+      "spanish": "Estoy nervioso/a",
+      "serbian": "nervozan/na sam",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "estoy_triste",
+      "spanish": "Estoy triste",
+      "serbian": "tužan/na sam",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "estoy_muy_bien",
+      "spanish": "Estoy muy bien",
+      "serbian": "jako sam dobro",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "estoy_muy_mal",
+      "spanish": "Estoy muy mal",
+      "serbian": "jako sam loše",
+      "type": "Fraza",
+      "topic": "Telo",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "quisiera",
+      "spanish": "Quisiera",
+      "serbian": "želeo bih",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "me_gustaria",
+      "spanish": "me gustaria",
+      "serbian": "želeo bih",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "para_mi",
+      "spanish": "Para mi",
+      "serbian": "za mene",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "que_me_recomienda",
+      "spanish": "¿Que me recomienda?",
+      "serbian": "šta preporučujete?",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_cuenta_por_favor",
+      "spanish": "La cuenta, por favor",
+      "serbian": "račun, molim",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "algo_maś",
+      "spanish": "¿Algo maś?",
+      "serbian": "još nešto?",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "esta_includio",
+      "spanish": "¿Esta includio?",
+      "serbian": "da li je uključeno?",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "entrante",
+      "spanish": "Entrante",
+      "serbian": "predjelo",
+      "type": "Imenica",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "plato_principal",
+      "spanish": "Plato principal",
+      "serbian": "glavno jelo",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "poste",
+      "spanish": "Poste",
+      "serbian": "dezert",
+      "type": "Imenica",
+      "topic": "Restoran",
+      "note": "postre",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "agua_sin_gas",
+      "spanish": "Agua sin gas",
+      "serbian": "voda bez gasa",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "agua_con_gas",
+      "spanish": "Agua con gas",
+      "serbian": "voda sa gasom",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pollo",
+      "spanish": "pollo",
+      "serbian": "piletina",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pescado",
+      "spanish": "pescado",
+      "serbian": "riba",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "verduras",
+      "spanish": "Verduras",
+      "serbian": "povrće",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "arroz",
+      "spanish": "Arroz",
+      "serbian": "pirinač",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pasta",
+      "spanish": "pasta",
+      "serbian": "testenina",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "enslada",
+      "spanish": "enslada",
+      "serbian": "salata",
+      "type": "Imenica",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "salado",
+      "spanish": "Salado",
+      "serbian": "slano",
+      "type": "Pridev",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "dulce",
+      "spanish": "Dulce",
+      "serbian": "slatko",
+      "type": "Pridev",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "picante",
+      "spanish": "Picante",
+      "serbian": "ljuto",
+      "type": "Pridev",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "hecho",
+      "spanish": "Hecho",
+      "serbian": "pečeno",
+      "type": "Pridev",
+      "topic": "Hrana",
+      "note": "dobro pečeno",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "poco_hecho",
+      "spanish": "poco hecho",
+      "serbian": "malo pečeno",
+      "type": "Fraza",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "muy_hecho",
+      "spanish": "muy hecho",
+      "serbian": "jako pečeno",
+      "type": "Fraza",
+      "topic": "Hrana",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "esta_frio",
+      "spanish": "Esta frio",
+      "serbian": "hladno je",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "no_pedi_esto",
+      "spanish": "No pedi esto",
+      "serbian": "nisam ovo naručio/la",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "soy_alergico_a",
+      "spanish": "Soy alergico/a",
+      "serbian": "alergičan/na sam",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "para_beber",
+      "spanish": "Para beber",
+      "serbian": "za piće",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "para_comer",
+      "spanish": "Para comer",
+      "serbian": "za jelo",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "de_primero",
+      "spanish": "De primero",
+      "serbian": "prvo jelo",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "de_segundo",
+      "spanish": "De segundo",
+      "serbian": "drugo jelo",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "de_postre",
+      "spanish": "De postre",
+      "serbian": "za desert",
+      "type": "Fraza",
+      "topic": "Restoran",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "como_se_dice",
+      "spanish": "¿Como se dice?",
+      "serbian": "kako se kaže?",
+      "type": "Fraza",
+      "topic": "Konverzacija",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_pasaporte",
+      "spanish": "El pasaporte",
+      "serbian": "pasoš",
+      "type": "Imenica",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_trajeta_de_embarque",
+      "spanish": "La trajeta de embarque",
+      "serbian": "boarding pass",
+      "type": "Fraza",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_cintrol_de_seguridad",
+      "spanish": "El cintrol de seguridad",
+      "serbian": "bezbedonosna kontrola",
+      "type": "Fraza",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_puerta_de_embarque",
+      "spanish": "La puerta de embarque",
+      "serbian": "gejt",
+      "type": "Fraza",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_equipaje",
+      "spanish": "El equipaje",
+      "serbian": "prtljag",
+      "type": "Imenica",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_maleta",
+      "spanish": "La maleta",
+      "serbian": "kofer",
+      "type": "Imenica",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_vuelo",
+      "spanish": "El vuelo",
+      "serbian": "let",
+      "type": "Imenica",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "retrasado",
+      "spanish": "Retrasado",
+      "serbian": "odložen",
+      "type": "Pridev",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cancelado",
+      "spanish": "cancelado",
+      "serbian": "otkazan",
+      "type": "Pridev",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "reservar_una_habitacion",
+      "spanish": "Reservar una habitacion",
+      "serbian": "rezervisati sobu",
+      "type": "Fraza",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_recepcion",
+      "spanish": "La recepcion",
+      "serbian": "recepcija",
+      "type": "Imenica",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_recepconista",
+      "spanish": "el recepconista",
+      "serbian": "recepcioner",
+      "type": "Imenica",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "individual",
+      "spanish": "Individual",
+      "serbian": "jednokrevetna",
+      "type": "Pridev",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "doble",
+      "spanish": "doble",
+      "serbian": "dvokrevetna",
+      "type": "Pridev",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "con_desayuno",
+      "spanish": "Con desayuno",
+      "serbian": "sa doručkom",
+      "type": "Fraza",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tarjeta",
+      "spanish": "tarjeta",
+      "serbian": "kartica",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "efectivo",
+      "spanish": "efectivo",
+      "serbian": "keš",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "donde_esta_la_puerta",
+      "spanish": "¿Donde esta la puerta?",
+      "serbian": "gde je gejt?",
+      "type": "Fraza",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "a_que_hora_sale_el_vuelo",
+      "spanish": "¿A que hora sale el vuelo?",
+      "serbian": "kada polazi let?",
+      "type": "Fraza",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tengo_una_reserva",
+      "spanish": "Tengo una reserva",
+      "serbian": "imam rezervaciju",
+      "type": "Fraza",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "incluye_desayuno",
+      "spanish": "¿Incluye desayuno?",
+      "serbian": "da li uključuje doručak?",
+      "type": "Fraza",
+      "topic": "Putovanje",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_pantalon_clasico",
+      "spanish": "El pantalon clasico",
+      "serbian": "klasične pantalone",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_pantalones_de_vestir",
+      "spanish": "Los pantalones de vestir",
+      "serbian": "poslovne pantalone",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_vaqueros",
+      "spanish": "Los vaqueros",
+      "serbian": "farmerke",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "jeans",
+      "spanish": "jeans",
+      "serbian": "farmerke",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_pantalones_ajustados",
+      "spanish": "Los pantalones ajustados",
+      "serbian": "uske pantalone",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_pantalones_holgados",
+      "spanish": "Los pantalones holgados",
+      "serbian": "široke pantalone",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_pantalones_cortos",
+      "spanish": "Los pantalones cortos",
+      "serbian": "šorts",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 2
+    },
+    {
+      "id": "la_falda_lapiz",
+      "spanish": "La falda lapiz",
+      "serbian": "uska suknja",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_falda_plisada",
+      "spanish": "La falda plisada",
+      "serbian": "plisirana suknja",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_falda_midi",
+      "spanish": "La falda midi",
+      "serbian": "srednja suknja",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_falda_larga",
+      "spanish": "La falda larga",
+      "serbian": "duga suknja",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "la_camiseta_de_manga_corta",
+      "spanish": "La camiseta de manga corta",
+      "serbian": "majica kratkih rukava",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_camiseta_de_manga_larga",
+      "spanish": "La camiseta de manga larga",
+      "serbian": "majica dugih rukava",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_camiseta_sin_mangas",
+      "spanish": "La camiseta sin mangas",
+      "serbian": "majica bez rukava",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_camisa_elegante",
+      "spanish": "La camisa elegante",
+      "serbian": "elegantna košulja",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_blusa",
+      "spanish": "La blusa",
+      "serbian": "bluza",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_top",
+      "spanish": "El top",
+      "serbian": "top",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_sueter",
+      "spanish": "El sueter",
+      "serbian": "džemper",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_jersey",
+      "spanish": "el jersey",
+      "serbian": "džemper",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_sudadera",
+      "spanish": "La sudadera",
+      "serbian": "duks",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "la_chaqueta",
+      "spanish": "La chaqueta",
+      "serbian": "jakna",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_abrigo",
+      "spanish": "El abrigo",
+      "serbian": "kaput",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_chaleco",
+      "spanish": "El chaleco",
+      "serbian": "prsluk",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_vestido_informal",
+      "spanish": "El vestido informal",
+      "serbian": "svakodnevna haljina",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_vestido_de_noche",
+      "spanish": "El vestido de noche",
+      "serbian": "večernja haljina",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 2
+    },
+    {
+      "id": "el_vestido_ajustado",
+      "spanish": "El vestido ajustado",
+      "serbian": "uska haljina",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "el_vestido_holgado",
+      "spanish": "El vestido holgado",
+      "serbian": "široka haljina",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_traje",
+      "spanish": "El traje",
+      "serbian": "odelo",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_conjunto",
+      "spanish": "El conjunto",
+      "serbian": "komplet",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_ropa_interior",
+      "spanish": "La ropa interior",
+      "serbian": "donji veš",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "las_bragas",
+      "spanish": "Las bragas",
+      "serbian": "ženske gaće",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_calzoncillos",
+      "spanish": "Los calzoncillos",
+      "serbian": "muške gaće",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_sujetador",
+      "spanish": "El sujetador",
+      "serbian": "grudnjak",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "sosten",
+      "spanish": "sosten",
+      "serbian": "grudnjak",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_calcetines",
+      "spanish": "Los calcetines",
+      "serbian": "čarape",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "las_medias",
+      "spanish": "Las medias",
+      "serbian": "hulahopke",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_pijama",
+      "spanish": "El pijama",
+      "serbian": "pidžama",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_camison",
+      "spanish": "El camison",
+      "serbian": "spavaćica",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_zapatos_de_tacon",
+      "spanish": "Los zapatos de tacon",
+      "serbian": "cipele sa štiklom",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_zapatos_planos",
+      "spanish": "Los zapatos planos",
+      "serbian": "ravne cipele",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "las_botas",
+      "spanish": "Las botas",
+      "serbian": "čizme",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "botines",
+      "spanish": "botines",
+      "serbian": "gležnjače",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "las_zapatillas_deportivas",
+      "spanish": "Las zapatillas deportivas",
+      "serbian": "patike",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "las_sandalias",
+      "spanish": "Las sandalias",
+      "serbian": "sandale",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_cinturon",
+      "spanish": "El cinturon",
+      "serbian": "kaiš",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_bolso",
+      "spanish": "El bolso",
+      "serbian": "torba",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_bufanda",
+      "spanish": "La bufanda",
+      "serbian": "šal",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_guantes",
+      "spanish": "Los guantes",
+      "serbian": "rukavice",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_gorro",
+      "spanish": "El gorro",
+      "serbian": "kapa",
+      "type": "Imenica",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "las_gafas_de_sol",
+      "spanish": "Las gafas de sol",
+      "serbian": "naočare za sunce",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "ponerse",
+      "spanish": "Ponerse",
+      "serbian": "obući",
+      "type": "Glagol",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 2
+    },
+    {
+      "id": "vestire",
+      "spanish": "Vestire",
+      "serbian": "oblačiti se",
+      "type": "Glagol",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cambiarse",
+      "spanish": "Cambiarse",
+      "serbian": "presvući se",
+      "type": "Glagol",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "combinar",
+      "spanish": "Combinar",
+      "serbian": "uklapati",
+      "type": "Glagol",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "quedar_bien",
+      "spanish": "Quedar bien",
+      "serbian": "stajati dobro",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "quedar_mal",
+      "spanish": "Quedar mal",
+      "serbian": "stajati loše",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "llevar_puesto_a",
+      "spanish": "Llevar puesto/a",
+      "serbian": "imati obučeno",
+      "type": "Fraza",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "quitarse",
+      "spanish": "Quitarse",
+      "serbian": "skinuti",
+      "type": "Glagol",
+      "topic": "Odeća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_vivienda",
+      "spanish": "La vivienda",
+      "serbian": "stambeni prostor",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_atico",
+      "spanish": "El atico",
+      "serbian": "penthaus",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_sotano",
+      "spanish": "El sotano",
+      "serbian": "podrum",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_trastero",
+      "spanish": "El trastero",
+      "serbian": "ostava",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "el_despacho",
+      "spanish": "El despacho",
+      "serbian": "radna soba",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_vestidor",
+      "spanish": "El vestidor",
+      "serbian": "garderober",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_terraza",
+      "spanish": "La terraza",
+      "serbian": "terasa",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_distribucion",
+      "spanish": "La distribucion",
+      "serbian": "raspored prostorija",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_espacio_diafano",
+      "spanish": "El espacio diafano",
+      "serbian": "otvoren prostor",
+      "type": "Fraza",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "bien_ilumindo",
+      "spanish": "Bien ilumindo",
+      "serbian": "dobro osvetljen",
+      "type": "Fraza",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mal_ventilado",
+      "spanish": "Mal ventilado",
+      "serbian": "slabo provetren",
+      "type": "Fraza",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "acogedor_a",
+      "spanish": "Acogedor/a",
+      "serbian": "prijatan",
+      "type": "Pridev",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "funcional",
+      "spanish": "Funcional",
+      "serbian": "funkcionalan",
+      "type": "Pridev",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "reducio_a",
+      "spanish": "Reducio/a",
+      "serbian": "skučen",
+      "type": "Pridev",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_electrodomesticos",
+      "spanish": "Los electrodomesticos",
+      "serbian": "kućni aparati",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "la_encimera",
+      "spanish": "La encimera",
+      "serbian": "radna ploča",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_armarios_empoteados",
+      "spanish": "Los armarios empoteados",
+      "serbian": "ugradni ormari",
+      "type": "Fraza",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_calefaccion",
+      "spanish": "La calefaccion",
+      "serbian": "grejanje",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_aire_acondicionado",
+      "spanish": "El aire acondicionado",
+      "serbian": "klima",
+      "type": "Fraza",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_suelo_de_parquet",
+      "spanish": "El suelo de parquet",
+      "serbian": "parket",
+      "type": "Fraza",
+      "topic": "Kuća",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_familia",
+      "spanish": "La familia",
+      "serbian": "porodica",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_padre",
+      "spanish": "El padre",
+      "serbian": "otac",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_madre",
+      "spanish": "La madre",
+      "serbian": "majka",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_padres",
+      "spanish": "Los padres",
+      "serbian": "roditelji",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_hijo",
+      "spanish": "El hijo",
+      "serbian": "sin",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_hija",
+      "spanish": "La hija",
+      "serbian": "ćerka",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_hijos",
+      "spanish": "Los hijos",
+      "serbian": "deca",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_hermano",
+      "spanish": "El hermano",
+      "serbian": "brat",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_hermana",
+      "spanish": "La hermana",
+      "serbian": "sestra",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_hermanos",
+      "spanish": "Los hermanos",
+      "serbian": "braća i sestre",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_abuelo",
+      "spanish": "El abuelo",
+      "serbian": "deda",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_abuela",
+      "spanish": "La abuela",
+      "serbian": "baba",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "los_abuelos",
+      "spanish": "Los abuelos",
+      "serbian": "baka i deda",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_tio",
+      "spanish": "El tio",
+      "serbian": "ujak, teča, stric",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_tia",
+      "spanish": "La tia",
+      "serbian": "tetka",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_primo",
+      "spanish": "El primo",
+      "serbian": "rođak",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_prima",
+      "spanish": "La prima",
+      "serbian": "rođaka",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_sobrino",
+      "spanish": "El sobrino",
+      "serbian": "bratanac, sestrić",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_sobrina",
+      "spanish": "La sobrina",
+      "serbian": "bratanica, sestričina",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "el_marido",
+      "spanish": "El marido",
+      "serbian": "muž",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_esposo",
+      "spanish": "el esposo",
+      "serbian": "muž",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_esposa",
+      "spanish": "la esposa",
+      "serbian": "žena",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_suegro",
+      "spanish": "El suegro",
+      "serbian": "svekar",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_suegra",
+      "spanish": "La suegra",
+      "serbian": "svekrva",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_cuñado",
+      "spanish": "El cuñado",
+      "serbian": "šurak",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_cuñada",
+      "spanish": "La cuñada",
+      "serbian": "svastika",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_bebe",
+      "spanish": "El bebe",
+      "serbian": "beba",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_novio",
+      "spanish": "El novio",
+      "serbian": "dečko",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_novia",
+      "spanish": "la novia",
+      "serbian": "devojka",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_padrastro",
+      "spanish": "El padrastro",
+      "serbian": "očuh",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_madrastra",
+      "spanish": "La madrastra",
+      "serbian": "maćeha",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_hermanisto",
+      "spanish": "El hermanisto",
+      "serbian": "polubrat",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_hermanista",
+      "spanish": "La hermanista",
+      "serbian": "polusestra",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "la_madrina",
+      "spanish": "La madrina",
+      "serbian": "kuma",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_yerno",
+      "spanish": "El yerno",
+      "serbian": "zet",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_nieta",
+      "spanish": "La nieta",
+      "serbian": "unuka",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_nieto",
+      "spanish": "El nieto",
+      "serbian": "unuk",
+      "type": "Imenica",
+      "topic": "Porodica",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_compra",
+      "spanish": "La compra",
+      "serbian": "kupovina",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_vendedor",
+      "spanish": "El vendedor",
+      "serbian": "prodavac",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_vendedora",
+      "spanish": "la vendedora",
+      "serbian": "prodavačica",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_precio",
+      "spanish": "El precio",
+      "serbian": "cena",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 2
+    },
+    {
+      "id": "la_factura",
+      "spanish": "La factura",
+      "serbian": "račun",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 2
+    },
+    {
+      "id": "el_descuento",
+      "spanish": "El descuento",
+      "serbian": "popust",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_salario",
+      "spanish": "El salario",
+      "serbian": "plata",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_empresa",
+      "spanish": "La empresa",
+      "serbian": "firma",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_empleado",
+      "spanish": "El empleado",
+      "serbian": "zaposleni",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "la_empleada",
+      "spanish": "la empleada",
+      "serbian": "zaposlena",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_contrato",
+      "spanish": "El contrato",
+      "serbian": "ugovor",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_producto",
+      "spanish": "El producto",
+      "serbian": "proizvod",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "el_servicio",
+      "spanish": "El servicio",
+      "serbian": "usluga",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "atencion_al_cliente",
+      "spanish": "Atencion al cliente",
+      "serbian": "korisnička služba",
+      "type": "Fraza",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "soporte_tecnico",
+      "spanish": "Soporte tecnico",
+      "serbian": "tehnička podrška",
+      "type": "Fraza",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "prestacion",
+      "spanish": "Prestacion",
+      "serbian": "usluga",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "cita_previa",
+      "spanish": "Cita previa",
+      "serbian": "zakazan termin",
+      "type": "Fraza",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "reserva",
+      "spanish": "Reserva",
+      "serbian": "rezervacija",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mantenimiento",
+      "spanish": "Mantenimiento",
+      "serbian": "održavanje",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "asistencia",
+      "spanish": "Asistencia",
+      "serbian": "pomoć",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "gastos_de_servicio",
+      "spanish": "Gastos de servicio",
+      "serbian": "troškovi usluga",
+      "type": "Fraza",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "coste",
+      "spanish": "Coste",
+      "serbian": "cena, trošak",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "valor",
+      "spanish": "Valor",
+      "serbian": "vrednost",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "tarifa",
+      "spanish": "Tarifa",
+      "serbian": "tarifa",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "gasto",
+      "spanish": "Gasto",
+      "serbian": "trošak",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "precio_unitario",
+      "spanish": "Precio unitario",
+      "serbian": "jedinična cena",
+      "type": "Fraza",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "rebaja",
+      "spanish": "Rebaja",
+      "serbian": "sniženje",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "incremento",
+      "spanish": "Incremento",
+      "serbian": "povećanje",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "oferta_especial",
+      "spanish": "Oferta especial",
+      "serbian": "specijalna ponuda",
+      "type": "Fraza",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "comprar",
+      "spanish": "Comprar",
+      "serbian": "kupiti",
+      "type": "Glagol",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "adquirir",
+      "spanish": "Adquirir",
+      "serbian": "nabaviti",
+      "type": "Glagol",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pago",
+      "spanish": "Pago",
+      "serbian": "plaćanje",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "ahorrar",
+      "spanish": "Ahorrar",
+      "serbian": "uštedeti",
+      "type": "Glagol",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "caro",
+      "spanish": "Caro",
+      "serbian": "skupo",
+      "type": "Pridev",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "barato",
+      "spanish": "barato",
+      "serbian": "jeftino",
+      "type": "Pridev",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "en_efectivo",
+      "spanish": "En efectivo",
+      "serbian": "u gotovini, keš",
+      "type": "Fraza",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 1
+    },
+    {
+      "id": "con_tarjeta",
+      "spanish": "Con tarjeta",
+      "serbian": "karticom",
+      "type": "Fraza",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "comercial",
+      "spanish": "Comercial",
+      "serbian": "trgovinski, komercijalni",
+      "type": "Pridev",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mercado",
+      "spanish": "Mercado",
+      "serbian": "tržište",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "mercancia",
+      "spanish": "Mercancia",
+      "serbian": "roba",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "despacho",
+      "spanish": "Despacho",
+      "serbian": "dostava",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "promocion",
+      "spanish": "Promocion",
+      "serbian": "promocija",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "liquidacion",
+      "spanish": "Liquidacion",
+      "serbian": "rasprodaja",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "descuento_por_volumen",
+      "spanish": "Descuento por volumen",
+      "serbian": "popust na količinu",
+      "type": "Fraza",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "descuento_exclusivo",
+      "spanish": "Descuento exclusivo",
+      "serbian": "ekskluzivni popust",
+      "type": "Fraza",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "descuento_por_fidelidad",
+      "spanish": "Descuento por fidelidad",
+      "serbian": "popust za vernost",
+      "type": "Fraza",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "codigo_de_descuento",
+      "spanish": "Codigo de descuento",
+      "serbian": "kod za popust",
+      "type": "Fraza",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "oferta_limitada",
+      "spanish": "Oferta limitada",
+      "serbian": "ograničena ponuda",
+      "type": "Fraza",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "recibo",
+      "spanish": "Recibo",
+      "serbian": "potvrda o plaćanju",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 2
+    },
+    {
+      "id": "saldo",
+      "spanish": "Saldo",
+      "serbian": "saldo",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "pagar",
+      "spanish": "Pagar",
+      "serbian": "platiti",
+      "type": "Glagol",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "abonar",
+      "spanish": "Abonar",
+      "serbian": "izvršiti uplatu",
+      "type": "Glagol",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "verificar",
+      "spanish": "Verificar",
+      "serbian": "proveriti",
+      "type": "Glagol",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "devolver",
+      "spanish": "Devolver",
+      "serbian": "vratiti",
+      "type": "Glagol",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "ajuste",
+      "spanish": "Ajuste",
+      "serbian": "korekcija",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "gastos",
+      "spanish": "Gastos",
+      "serbian": "troškovi",
+      "type": "Imenica",
+      "topic": "Kupovina",
+      "note": "",
+      "createdAt": "2026-05-20T19:30:00.000Z",
+      "wrongCount": 0
+    },
+    {
+      "id": "ademas",
+      "spanish": "ademas",
+      "serbian": "izmedju ostalog",
+      "type": "Fraza",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:04:13.444Z"
+    },
+    {
+      "id": "entorno",
+      "spanish": "entorno",
+      "serbian": "okruzenje",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:10:29.125Z"
+    },
+    {
+      "id": "desafio",
+      "spanish": "desafio",
+      "serbian": "izazov",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:11:17.932Z"
+    },
+    {
+      "id": "desarollo",
+      "spanish": "desarollo",
+      "serbian": "razvoj",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:11:47.632Z"
+    },
+    {
+      "id": "sin_embargo",
+      "spanish": "sin embargo",
+      "serbian": "bez izuzetka",
+      "type": "Fraza",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:12:38.349Z"
+    },
+    {
+      "id": "ultimo",
+      "spanish": "ultimo",
+      "serbian": "poslednji",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:14:01.789Z"
+    },
+    {
+      "id": "alegria",
+      "spanish": "alegria",
+      "serbian": "radost",
+      "type": "Pridev",
+      "topic": "Osecanja",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:22:48.878Z"
+    },
+    {
+      "id": "tristeza",
+      "spanish": "tristeza",
+      "serbian": "tuga",
+      "type": "Pridev",
+      "topic": "Osecanja",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:23:12.231Z"
+    },
+    {
+      "id": "miedo",
+      "spanish": "miedo",
+      "serbian": "strah",
+      "type": "Pridev",
+      "topic": "Osecanja",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:23:25.296Z"
+    },
+    {
+      "id": "orgullo",
+      "spanish": "orgullo",
+      "serbian": "ponos",
+      "type": "Pridev",
+      "topic": "Osecanja",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:23:37.420Z"
+    },
+    {
+      "id": "verguenza",
+      "spanish": "verguenza",
+      "serbian": "sram",
+      "type": "Pridev",
+      "topic": "Osecanja",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:23:51.785Z"
+    },
+    {
+      "id": "sorpresa",
+      "spanish": "sorpresa",
+      "serbian": "iznenadjenje",
+      "type": "Pridev",
+      "topic": "Osecanja",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:24:05.403Z"
+    },
+    {
+      "id": "frustracion",
+      "spanish": "frustracion",
+      "serbian": "frustracija",
+      "type": "Pridev",
+      "topic": "Osecanja",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:24:25.285Z"
+    },
+    {
+      "id": "entusiasmo",
+      "spanish": "entusiasmo",
+      "serbian": "odusevljenje",
+      "type": "Pridev",
+      "topic": "Osecanja",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:24:43.568Z"
+    },
+    {
+      "id": "decepcion",
+      "spanish": "decepcion",
+      "serbian": "razocarenje",
+      "type": "Imenica",
+      "topic": "Osecanja",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:25:11.767Z"
+    },
+    {
+      "id": "tranquilidad",
+      "spanish": "tranquilidad",
+      "serbian": "smirenost",
+      "type": "Imenica",
+      "topic": "Osecanja",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:25:28.208Z"
+    },
+    {
+      "id": "optimista",
+      "spanish": "optimista",
+      "serbian": "optimistican",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:26:32.892Z"
+    },
+    {
+      "id": "pesimista",
+      "spanish": "pesimista",
+      "serbian": "pesimistican",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:26:55.662Z"
+    },
+    {
+      "id": "sensible",
+      "spanish": "sensible",
+      "serbian": "osetljiv",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:27:08.592Z"
+    },
+    {
+      "id": "responsable",
+      "spanish": "responsable",
+      "serbian": "odgovoran",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:27:18.439Z"
+    },
+    {
+      "id": "paciente",
+      "spanish": "paciente",
+      "serbian": "strpljiv",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:27:47.288Z"
+    },
+    {
+      "id": "impulsivo",
+      "spanish": "impulsivo",
+      "serbian": "impulsivan",
+      "type": "Imenica",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:28:07.399Z"
+    },
+    {
+      "id": "delante_de",
+      "spanish": "delante de",
+      "serbian": "ispred",
+      "type": "Prilog",
+      "topic": "Mesta",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:29:29.480Z"
+    },
+    {
+      "id": "lugar",
+      "spanish": "lugar",
+      "serbian": "mesto",
+      "type": "Imenica",
+      "topic": "Mesta",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:30:29.510Z"
+    },
+    {
+      "id": "oscuro",
+      "spanish": "oscuro",
+      "serbian": "mracno",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:30:45.517Z"
+    },
+    {
+      "id": "suceder",
+      "spanish": "suceder",
+      "serbian": "desiti se",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:31:45.911Z"
+    },
+    {
+      "id": "descubrir",
+      "spanish": "descubrir",
+      "serbian": "otkriti",
+      "type": "Glagol",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:32:52.108Z"
+    },
+    {
+      "id": "detras_de",
+      "spanish": "detras de",
+      "serbian": "iza",
+      "type": "Prilog",
+      "topic": "Mesta",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:33:10.003Z"
+    },
+    {
+      "id": "repente",
+      "spanish": "repente",
+      "serbian": "iznenada",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:33:56.027Z"
+    },
+    {
+      "id": "cotidiana",
+      "spanish": "cotidiana",
+      "serbian": "svakodnevan, svakodnevni",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:34:39.119Z"
+    },
+    {
+      "id": "comun",
+      "spanish": "comun",
+      "serbian": "cesto",
+      "type": "Pridev",
+      "topic": "Bez teme",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:34:53.792Z"
+    },
+    {
+      "id": "invierno",
+      "spanish": "invierno",
+      "serbian": "zima",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:37:25.086Z"
+    },
+    {
+      "id": "chimenea",
+      "spanish": "chimenea",
+      "serbian": "kamin",
+      "type": "Imenica",
+      "topic": "Kuća",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:37:49.859Z"
+    },
+    {
+      "id": "otoño",
+      "spanish": "otoño",
+      "serbian": "jesen",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:38:27.857Z"
+    },
+    {
+      "id": "verano",
+      "spanish": "verano",
+      "serbian": "leto",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:39:12.111Z"
+    },
+    {
+      "id": "primavera",
+      "spanish": "primavera",
+      "serbian": "prolece",
+      "type": "Imenica",
+      "topic": "Priroda",
+      "note": "",
+      "wrongCount": 0,
+      "createdAt": "2026-05-23T14:39:29.576Z"
+    }
+  ],
+  "meta": {
+    "lastLesson": "27"
+  }
+}
