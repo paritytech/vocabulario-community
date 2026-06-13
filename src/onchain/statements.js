@@ -31,6 +31,25 @@ const enc = new TextEncoder();
 const dec = new TextDecoder();
 const WIRE_VERSION = 1;
 
+// How long a published statement lives before the network drops it. The board
+// is ephemeral by design (see header), so a week is plenty; re-publishing to a
+// channel (an edit) always carries a fresh, larger expiry, so last-write-wins
+// keeps working.
+const TTL_SECONDS = 7 * 24 * 60 * 60;
+
+/**
+ * Build the Statement Store `expiry` value: a u64 packing an absolute Unix
+ * expiry timestamp (seconds) in the high 32 bits and a sequence number (0) in
+ * the low 32 bits — `(timestamp << 32) | seq`. The node rejects a missing or
+ * past expiry as "statement already expired", so this must be a future time.
+ * Mirrors `@novasamatech/sdk-statement`'s `createExpiryFromDuration`; inlined to
+ * avoid a new dependency (Blake2b is already the only crypto import here).
+ */
+function expiryFromNow(ttlSeconds = TTL_SECONDS) {
+  const timestamp = Math.floor(Date.now() / 1000) + ttlSeconds;
+  return BigInt(timestamp) << 32n;
+}
+
 /** 32-byte topic from a stable string (Blake2b-256). */
 function topic(s) {
   return blake2b(enc.encode(s), { dkLen: 32 });
@@ -147,7 +166,7 @@ async function publish(topics, channelKey, payload) {
   const stmt = {
     proof: undefined,
     decryptionKey: undefined,
-    expiry: undefined, // network-default retention
+    expiry: expiryFromNow(), // required: the node rejects a missing/past expiry
     channel: topic(channelKey),
     topics,
     data: encode(payload)
