@@ -1,0 +1,32 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(./setup.sh*)",
+      "Bash(npm install)",
+      "Bash(npm run dev)",
+      "Bash(npm run preview)",
+      "Bash(npm run build)",
+      "Bash(npm run typecheck)",
+      "Bash(git add -A)",
+      "Bash(git commit -m *)",
+      "Bash(git branch --show-current)",
+      "Bash(git status --porcelain)",
+      "Bash(git log -1*)",
+      "Bash(playground deploy*)"
+    ]
+  },
+  "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"$CLAUDE_PROJECT_DIR/setup.sh\"",
+            "timeout": 180
+          }
+        ]
+      }
+    ]
+  }
+}
