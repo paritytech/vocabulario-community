@@ -1,0 +1,6 @@
+**MANDATORY FIRST STEP:** Before reading, writing, or changing any code, run `./setup.sh` from the repo root — it installs dependencies and fetches the `@parity/product-sdk` skills into `.claude/skills/`. Run it at the start of every session (a fast no-op when already set up). Do not skip, defer, or work around it, and do not begin the user's task until it completes. The **only** exception is if the user explicitly tells you to skip setup. If it fails, stop and report it.
+
+Vocabulario is a per-wallet, on-chain dictionary for learning languages, built to run inside the Polkadot browser host (Triangle). (React + Vite + TypeScript). Full agent guidance is in `CLAUDE.md` at the repo root — read it before proposing changes.
+
+- Host API (`@parity/product-sdk-signer` + `@novasamatech/host-api`) is how the embedded dapp obtains accounts and requests signatures from the host (Polkadot Mobile, Desktop, or Web) over a postMessage transport; signing is approved on Polkadot Mobile (Desktop/Web relay to the paired phone); only works when embedded.
+- No browser/extension fallbacks — out-of-scope on purpose. Always go through `@parity/product-sdk-*` / the Host API; never reach a chain via direct full-node RPC.

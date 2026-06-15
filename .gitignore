@@ -57,3 +57,11 @@ data/*.bak2
 
 # OS
 Thumbs.db
+
+# AI session / per-developer local state
+.claude/sessions/
+.claude/cache/
+.claude/settings.local.json
+
+# Product SDK skills — fetched by ./setup.sh, not committed (kept fresh, never stale)
+.claude/skills/
