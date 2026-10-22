@@ -32,7 +32,7 @@
   "devDependencies": {
     "@polkadot/util-crypto": "^14.0.0",
     "@vitejs/plugin-react": "^6.0.2",
-    "vite": "^8.0.16"
+    "vite": "^8.3.5"
   },
   "engines": {
     "node": ">=22.0.0"
